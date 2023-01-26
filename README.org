@@ -1,6 +1,6 @@
 * Spring 2023 - Lab 01
 
-* Last name: Catalunay
+* Last name: Cataluna
 
 * First name: Kert Harvey
 
