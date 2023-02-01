@@ -3,6 +3,11 @@
 * Last name: Cataluna
 * First name: Kert Harvey
 * GitHub username: kertharv
+* Instructor: Genady Maryash
+* Recitation Instructor: Prof. Zamansky
+* Asssignment: Lab 1D
+* Asks the user to input the year and the month (1-12) and 
+* prints the number of days in that month (taking into account leap years).
 */
 
 #include <iostream>

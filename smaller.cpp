@@ -3,8 +3,10 @@
 * Last name: Cataluna
 * First name: Kert Harvey
 * GitHub username: kertharv
-* Notes: The user is asked to enter two integers
-* which will output the smaller of the two.
+* Instructor: Genady Maryash
+* Recitation Instructor: Prof. Zamansky
+* Asssignment: Lab 1A
+* Asks the user to input two integer numbers and prints out the smaller of the two.
 */
 
 #include <iostream>

@@ -3,8 +3,10 @@
 * Last name: Cataluna
 * First name: Kert Harvey
 * GitHub username: kertharv
-* Notes: Asks the user to enter three numbers and the smallest of the
-* numbers will be outputted.
+* Instructor: Genady Maryash
+* Recitation Instructor: Prof. Zamansky
+* Asssignment: Lab 1B
+* Asks the user to input three integer numbers, and prints out the smallest of the three.
 */
 
 #include <iostream>
